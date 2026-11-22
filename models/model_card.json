@@ -1,0 +1,39 @@
+{
+  "family": "logistic regression",
+  "attempt": "LR baseline (C=1)",
+  "threshold": 0.3624300864516342,
+  "threshold_rule": "maximises F1 on validation (2020-2021)",
+  "features": [
+    "grid_position",
+    "pit_lane_start",
+    "field_size",
+    "q1_gap_pct",
+    "q1_gap_to_teammate_pct",
+    "grid_minus_quali",
+    "driver_podium_rate_last5",
+    "driver_avg_finish_rel_last5",
+    "driver_finish_rate_last5",
+    "driver_form_races",
+    "driver_experience",
+    "constructor_podium_rate_last5",
+    "constructor_best_finish_rel_last5",
+    "constructor_finish_rate_last5",
+    "constructor_form_races",
+    "driver_champ_rank",
+    "driver_points_share",
+    "constructor_champ_rank",
+    "constructor_points_share",
+    "season_progress",
+    "standings_from_last_season",
+    "home_race"
+  ],
+  "seed": 42,
+  "train_seasons": [
+    1950,
+    2019
+  ],
+  "model_start_year": 2003,
+  "sklearn_version": "1.9.1",
+  "shap_setup": "shap.Explainer(predict_proba[:,1], shap.maskers.Independent(background), feature_names=FEATURES); background = X_train.sample(100, random_state=SEED)",
+  "lime_setup": "LimeTabularExplainer(X_train filled with train medians, discretize_continuous=True, random_state=SEED), num_samples=5000"
+}

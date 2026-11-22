@@ -1,0 +1,45 @@
+intent,question
+driver_stats,How many podiums did Charles Leclerc get in 2022?
+driver_stats,How many wins did Fernando Alonso have between 2005 and 2007?
+driver_stats,How many points did Lando Norris score in 2024?
+driver_stats,What was Valtteri Bottas's average finish in 2019?
+driver_at_circuit,How many wins did Lewis Hamilton have at Silverstone before 2020?
+driver_at_circuit,What is Sebastian Vettel's best finish at Monza?
+driver_at_circuit,How did Max Verstappen do at Zandvoort?
+driver_at_circuit,How many podiums has Carlos Sainz got at Monaco?
+constructor_stats,How reliable was Williams between 2014 and 2021?
+constructor_stats,How many points did Ferrari score in 2022?
+constructor_stats,How many mechanical retirements did Haas have from 2016 to 2020?
+constructor_stats,How many wins did McLaren get in 2024?
+head_to_head,"Who finished ahead more often, Norris or Ricciardo at McLaren?"
+head_to_head,Compare Hamilton and Bottas as teammates
+head_to_head,Leclerc vs Sainz head to head at Ferrari
+head_to_head,"Who won the teammate battle, Ocon or Gasly?"
+race_result,Who won the 2019 German Grand Prix?
+race_result,Who was on the podium at the 2021 Italian GP?
+race_result,Give me the top 10 of the 2023 Las Vegas Grand Prix
+race_result,Who won at Interlagos in 2016?
+circuit_info,Where is the Hungaroring?
+circuit_info,Who has the most wins at Monaco?
+circuit_info,How many Grands Prix have been held at Spa?
+circuit_info,When was the first race at Suzuka?
+qualifying_grid,Which driver gained the most places from the grid at Monza in 2021?
+qualifying_grid,How many poles did Leclerc get in 2022?
+qualifying_grid,Who took pole for the 2022 Japanese Grand Prix?
+qualifying_grid,How many times did Norris reach Q3 in 2023?
+pit_stops,What was the fastest pit stop at the 2023 Qatar Grand Prix?
+pit_stops,How many times did Hamilton pit in 2022?
+pit_stops,How many stops did drivers make on average at the 2021 Italian GP?
+pit_stops,What was Alonso's quickest pit stop in 2022?
+season_summary,Which drivers changed teams between 2020 and 2021?
+season_summary,Who scored the most points in 2021?
+season_summary,How many drivers took part in the 2016 season?
+season_summary,Which team scored the most points in 2019?
+podium_prediction,x01
+podium_prediction,x02
+podium_prediction,x05
+podium_prediction,x06
+out_of_scope,Who designed the 2023 Red Bull car?
+out_of_scope,What tyre compound did Hamilton use at Monza in 2020?
+out_of_scope,How much does Max Verstappen earn per year?
+out_of_scope,What is the best recipe for lasagna?

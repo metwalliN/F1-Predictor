@@ -1,0 +1,75 @@
+id,message,cached_intent,label
+i01,What was Lando Norris's points total in 2024?,,driver_stats
+i02,How many Grands Prix did Fernando Alonso win across his career?,,driver_stats
+i03,Count the podium finishes of Valtteri Bottas from 2017 to 2021,,driver_stats
+i04,In 2016 how many victories did Nico Rosberg take?,,driver_stats
+i05,Give me Sergio Perez's numbers for 2021,,driver_stats
+i06,How many times was Jenson Button classified on the podium in 2009?,,driver_stats
+i07,How has Lewis Hamilton performed at the Hungaroring?,,driver_at_circuit
+i08,Number of victories for Sebastian Vettel at Marina Bay,,driver_at_circuit
+i09,What is Max Verstappen's best result in Monaco?,,driver_at_circuit
+i10,Did Alonso ever win at Silverstone?,,driver_at_circuit
+i11,Podium count for Kimi Raikkonen at Spa,,driver_at_circuit
+i12,How did Charles Leclerc perform at Monza between 2019 and 2024?,,driver_at_circuit
+i13,How dependable were Ferrari cars from 2014 to 2018?,,constructor_stats
+i14,Total points for Aston Martin in 2023,,constructor_stats
+i15,How many races did Red Bull win in 2022?,,constructor_stats
+i16,How often did Renault cars retire with mechanical problems between 2016 and 2020?,,constructor_stats
+i17,What share of McLaren entries were classified in 2017?,,constructor_stats
+i18,How many podiums did Williams collect in 2014?,,constructor_stats
+i19,Between Hamilton and Rosberg who came out on top as teammates?,,head_to_head
+i20,Verstappen against Perez at Red Bull: who finished in front more?,,head_to_head
+i21,Piastri versus Norris in shared races,,head_to_head
+i22,Which of Sainz and Leclerc beat the other more often at Ferrari?,,head_to_head
+i23,Alonso v Hamilton at McLaren head to head record,,head_to_head
+i24,Compare Gasly with Ocon when they drove together,,head_to_head
+i25,Which driver triumphed at the 2021 Abu Dhabi Grand Prix?,,race_result
+i26,Tell me who finished in the top three of the 2020 Turkish GP,,race_result
+i27,Who took the victory in Baku in 2018?,,race_result
+i28,Full top ten of the 2024 Brazilian Grand Prix please,,race_result
+i29,Who came second in the 2012 European Grand Prix?,,race_result
+i30,Winner of the 2005 United States Grand Prix?,,race_result
+i31,In which city is the Albert Park circuit?,,circuit_info
+i32,How many championship races has Imola hosted?,,circuit_info
+i33,Which driver has won most often at Suzuka?,,circuit_info
+i34,Since when has Baku been on the calendar?,,circuit_info
+i35,What country is the Losail circuit located in?,,circuit_info
+i36,Give me some facts about Zandvoort,,circuit_info
+i37,Who started the 2021 Brazilian GP from pole position?,,qualifying_grid
+i38,Biggest climb through the field at the 2023 Miami Grand Prix?,,qualifying_grid
+i39,How many pole positions did Hamilton take in 2020?,,qualifying_grid
+i40,How often did George Russell make it into Q3 in 2022?,,qualifying_grid
+i41,Who qualified in the top three for the 2019 Austrian Grand Prix?,,qualifying_grid
+i42,What was Lando Norris's mean grid slot in qualifying for 2024?,,qualifying_grid
+i43,Which team had the quickest stop in the 2022 Dutch Grand Prix?,,pit_stops
+i44,On average how many stops were made at the 2023 Singapore GP?,,pit_stops
+i45,How many times did Verstappen come into the pits in 2021?,,pit_stops
+i46,Fastest service in the pit lane at the 2020 Hungarian Grand Prix,,pit_stops
+i47,Typical number of pit visits per race for Sainz in 2023,,pit_stops
+i48,What was Alonso's quickest pit stop in 2022?,,pit_stops
+i49,Who topped the points table in 2009?,,season_summary
+i50,Which drivers moved to a new team for the 2024 season compared with 2023?,,season_summary
+i51,How many different drivers raced in 2010?,,season_summary
+i52,Which constructor collected the most points in 2015?,,season_summary
+i53,Who led the championship in 1994?,,season_summary
+i54,Number of races on the 2019 calendar,,season_summary
+i55,What are the odds that Russell finishes in the top three at the 2024 Austrian GP?,,podium_prediction
+i56,Estimate whether Sainz makes the podium at the 2023 Singapore Grand Prix from pole,,podium_prediction
+i57,Predict a podium for Perez at the 2022 Monaco GP starting 3rd,,podium_prediction
+i58,Is Piastri likely to finish on the podium at the 2024 Italian Grand Prix?,,podium_prediction
+i59,Use the model to forecast Alonso at the 2023 Bahrain Grand Prix,,podium_prediction
+i60,What's the probability that Leclerc gets a podium at the 2022 Bahrain GP from P1?,,podium_prediction
+i61,Which aerodynamicist designed the Mercedes W11?,,out_of_scope
+i62,What soft tyre strategy works best at Monaco?,,out_of_scope
+i63,What is Lewis Hamilton's salary?,,out_of_scope
+i64,How do I bake sourdough bread?,,out_of_scope
+i65,Who won the sprint at Interlagos in 2023?,,out_of_scope
+i66,Is it going to rain at Spa next weekend?,,out_of_scope
+i67,Explain quantum computing in simple terms,,out_of_scope
+i68,What is the lap record at Monza?,,out_of_scope
+i69,And in 2020?,driver_stats,driver_stats
+i70,What about Norris?,head_to_head,head_to_head
+i71,2021?,constructor_stats,constructor_stats
+i72,How many races did he win in 2016?,driver_stats,driver_stats
+i73,And at Monza?,driver_at_circuit,driver_at_circuit
+i74,What about the 2019 Italian GP?,race_result,race_result

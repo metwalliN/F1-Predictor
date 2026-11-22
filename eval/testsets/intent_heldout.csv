@@ -1,0 +1,49 @@
+id,message,cached_intent,label
+h01,What did Mark Webber achieve in the 2010 season?,,driver_stats
+h02,Tell me how many points Oscar Piastri got last time out in 2023,,driver_stats
+h03,Michael Schumacher's victory tally in 2004,,driver_stats
+h04,Did Daniel Ricciardo score any podiums in 2022?,,driver_stats
+h05,Hamilton's results at Interlagos,,driver_at_circuit
+h06,Has Lando Norris ever won in Miami?,,driver_at_circuit
+h07,Best ever finish for Nico Hulkenberg at Suzuka,,driver_at_circuit
+h08,How often did Ayrton Senna win in Monaco?,,driver_at_circuit
+h09,What was the reliability of Sauber in 2015?,,constructor_stats
+h10,Points scored by Alpine across 2021 and 2022,,constructor_stats
+h11,How many race wins did Brawn take in 2009?,,constructor_stats
+h12,How many mechanical failures did Mercedes suffer in 2016?,,constructor_stats
+h13,Was Bottas faster than Russell at Williams?,,head_to_head
+h14,Head-to-head record of Button and Hamilton,,head_to_head
+h15,Who had the upper hand between Vettel and Ricciardo in 2014?,,head_to_head
+h16,Albon or Sargeant: who finished ahead more as teammates?,,head_to_head
+h17,Who stood on the top step at the 2022 Canadian Grand Prix?,,race_result
+h18,Who completed the podium in Jeddah in 2021?,,race_result
+h19,What was the result of the 2016 Spanish GP?,,race_result
+h20,Who was the runner-up in the 2010 Abu Dhabi Grand Prix?,,race_result
+h21,Where exactly is Interlagos?,,circuit_info
+h22,How many Formula 1 races have taken place at Monaco?,,circuit_info
+h23,Who is the most successful driver at the Hungaroring?,,circuit_info
+h24,When did Formula 1 last race at Istanbul Park?,,circuit_info
+h25,Who was quickest in qualifying for the 2018 Singapore Grand Prix?,,qualifying_grid
+h26,How many Q3 sessions did Alex Albon make in 2024?,,qualifying_grid
+h27,Who made up the most positions in the 2016 Brazilian Grand Prix?,,qualifying_grid
+h28,What was Sainz's average starting position in qualifying in 2021?,,qualifying_grid
+h29,Who serviced fastest in the 2024 Saudi Arabian GP pit lane?,,pit_stops
+h30,How many stops per driver were there at the 2019 German Grand Prix?,,pit_stops
+h31,Did Leclerc stop more than twice per race on average in 2021?,,pit_stops
+h32,What was the slowest and fastest stop at the 2022 Monaco Grand Prix?,,pit_stops
+h33,Who were the leading scorers of the 2012 season?,,season_summary
+h34,Which drivers swapped teams from 2018 to 2019?,,season_summary
+h35,How many teams were on the grid in 2005?,,season_summary
+h36,Who won the most races in 2023?,,season_summary
+h37,Do you think Hamilton reaches the podium at the 2024 British Grand Prix?,,podium_prediction
+h38,Give me the podium probability for Verstappen at the 2022 Monaco GP starting P4,,podium_prediction
+h39,How likely is a podium for Ocon at the 2023 Monaco Grand Prix?,,podium_prediction
+h40,Model prediction for Gasly in the 2024 Sao Paulo Grand Prix,,podium_prediction
+h41,What engine does McLaren use this year?,,out_of_scope
+h42,Recommend a good laptop for programming,,out_of_scope
+h43,How fast is the top speed at Monza?,,out_of_scope
+h44,Who will win the 2026 championship?,,out_of_scope
+h45,And for 2018?,season_summary,season_summary
+h46,What about Ferrari?,constructor_stats,constructor_stats
+h47,Same for Piastri,driver_at_circuit,driver_at_circuit
+h48,in 2015?,pit_stops,pit_stops

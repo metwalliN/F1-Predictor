@@ -1,0 +1,118 @@
+{
+  "target": "podium",
+  "key": [
+    "raceId",
+    "driverId"
+  ],
+  "meta": [
+    "raceId",
+    "driverId",
+    "constructorId",
+    "circuitId",
+    "year",
+    "round",
+    "date",
+    "split"
+  ],
+  "features": [
+    "grid_position",
+    "pit_lane_start",
+    "field_size",
+    "q1_gap_pct",
+    "q1_gap_to_teammate_pct",
+    "grid_minus_quali",
+    "driver_podium_rate_last5",
+    "driver_avg_finish_rel_last5",
+    "driver_finish_rate_last5",
+    "driver_form_races",
+    "driver_experience",
+    "constructor_podium_rate_last5",
+    "constructor_best_finish_rel_last5",
+    "constructor_finish_rate_last5",
+    "constructor_form_races",
+    "driver_champ_rank",
+    "driver_points_share",
+    "constructor_champ_rank",
+    "constructor_points_share",
+    "season_progress",
+    "standings_from_last_season",
+    "home_race"
+  ],
+  "groups": {
+    "grid": [
+      "grid_position",
+      "pit_lane_start",
+      "field_size"
+    ],
+    "qualifying": [
+      "q1_gap_pct",
+      "q1_gap_to_teammate_pct",
+      "grid_minus_quali"
+    ],
+    "driver_form": [
+      "driver_podium_rate_last5",
+      "driver_avg_finish_rel_last5",
+      "driver_finish_rate_last5",
+      "driver_form_races",
+      "driver_experience"
+    ],
+    "constructor_form": [
+      "constructor_podium_rate_last5",
+      "constructor_best_finish_rel_last5",
+      "constructor_finish_rate_last5",
+      "constructor_form_races"
+    ],
+    "standings": [
+      "driver_champ_rank",
+      "driver_points_share",
+      "constructor_champ_rank",
+      "constructor_points_share",
+      "season_progress",
+      "standings_from_last_season"
+    ],
+    "context": [
+      "home_race"
+    ]
+  },
+  "dropped_redundant": {
+    "grid_relative": "equals grid_position / field_size, and both are kept features",
+    "quali_position": "equals grid_position - grid_minus_quali, and both are kept features"
+  },
+  "not_inputs": [
+    "driver_standings_source",
+    "constructor_standings_source"
+  ],
+  "form_window": 5,
+  "model_start_year": 2003,
+  "anomalous_races_excluded": {
+    "2005 United States Grand Prix": "only 6 of 20 cars started (tyre-safety withdrawal); grid slots and podium odds not comparable with any other race"
+  },
+  "splits": {
+    "train": [
+      1950,
+      2019
+    ],
+    "validation": [
+      2020,
+      2021
+    ],
+    "test": [
+      2022,
+      2024
+    ]
+  },
+  "why_missing": {
+    "quali_position": "no qualifying record for this driver at this race",
+    "grid_minus_quali": "no qualifying position (same rows as quali_position)",
+    "q1_gap_pct": "no Q1 time (no lap set or no qualifying record)",
+    "q1_gap_to_teammate_pct": "driver or teammate has no Q1 time, or the team did not have exactly two cars with times",
+    "driver_podium_rate_last5": "driver's first start (no earlier race)",
+    "driver_avg_finish_rel_last5": "driver's first start (no earlier race)",
+    "driver_finish_rate_last5": "driver's first start (no earlier race)",
+    "constructor_podium_rate_last5": "team's first race",
+    "constructor_best_finish_rel_last5": "team's first race",
+    "constructor_finish_rate_last5": "team's first race",
+    "driver_champ_rank": "season opener and the driver was not in last season's final standings (rookie)",
+    "constructor_champ_rank": "season opener and the team was not in last season's final standings (new team)"
+  }
+}

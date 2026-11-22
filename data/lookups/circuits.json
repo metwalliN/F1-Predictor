@@ -1,0 +1,772 @@
+[
+{
+"id": 1,
+"name": "Albert Park Grand Prix Circuit",
+"ref": "albert_park",
+"location": "Melbourne",
+"country": "Australia",
+"races": 27,
+"first_year": 1996,
+"last_year": 2024
+},
+{
+"id": 2,
+"name": "Sepang International Circuit",
+"ref": "sepang",
+"location": "Kuala Lumpur",
+"country": "Malaysia",
+"races": 19,
+"first_year": 1999,
+"last_year": 2017
+},
+{
+"id": 3,
+"name": "Bahrain International Circuit",
+"ref": "bahrain",
+"location": "Sakhir",
+"country": "Bahrain",
+"races": 21,
+"first_year": 2004,
+"last_year": 2024
+},
+{
+"id": 4,
+"name": "Circuit de Barcelona-Catalunya",
+"ref": "catalunya",
+"location": "Montmeló",
+"country": "Spain",
+"races": 34,
+"first_year": 1991,
+"last_year": 2024
+},
+{
+"id": 5,
+"name": "Istanbul Park",
+"ref": "istanbul",
+"location": "Istanbul",
+"country": "Turkey",
+"races": 9,
+"first_year": 2005,
+"last_year": 2021
+},
+{
+"id": 6,
+"name": "Circuit de Monaco",
+"ref": "monaco",
+"location": "Monte-Carlo",
+"country": "Monaco",
+"races": 70,
+"first_year": 1950,
+"last_year": 2024
+},
+{
+"id": 7,
+"name": "Circuit Gilles Villeneuve",
+"ref": "villeneuve",
+"location": "Montreal",
+"country": "Canada",
+"races": 43,
+"first_year": 1978,
+"last_year": 2024
+},
+{
+"id": 8,
+"name": "Circuit de Nevers Magny-Cours",
+"ref": "magny_cours",
+"location": "Magny Cours",
+"country": "France",
+"races": 18,
+"first_year": 1991,
+"last_year": 2008
+},
+{
+"id": 9,
+"name": "Silverstone Circuit",
+"ref": "silverstone",
+"location": "Silverstone",
+"country": "UK",
+"races": 59,
+"first_year": 1950,
+"last_year": 2024
+},
+{
+"id": 10,
+"name": "Hockenheimring",
+"ref": "hockenheimring",
+"location": "Hockenheim",
+"country": "Germany",
+"races": 37,
+"first_year": 1970,
+"last_year": 2019
+},
+{
+"id": 11,
+"name": "Hungaroring",
+"ref": "hungaroring",
+"location": "Budapest",
+"country": "Hungary",
+"races": 39,
+"first_year": 1986,
+"last_year": 2024
+},
+{
+"id": 12,
+"name": "Valencia Street Circuit",
+"ref": "valencia",
+"location": "Valencia",
+"country": "Spain",
+"races": 5,
+"first_year": 2008,
+"last_year": 2012
+},
+{
+"id": 13,
+"name": "Circuit de Spa-Francorchamps",
+"ref": "spa",
+"location": "Spa",
+"country": "Belgium",
+"races": 57,
+"first_year": 1950,
+"last_year": 2024
+},
+{
+"id": 14,
+"name": "Autodromo Nazionale di Monza",
+"ref": "monza",
+"location": "Monza",
+"country": "Italy",
+"races": 74,
+"first_year": 1950,
+"last_year": 2024
+},
+{
+"id": 15,
+"name": "Marina Bay Street Circuit",
+"ref": "marina_bay",
+"location": "Marina Bay",
+"country": "Singapore",
+"races": 15,
+"first_year": 2008,
+"last_year": 2024
+},
+{
+"id": 16,
+"name": "Fuji Speedway",
+"ref": "fuji",
+"location": "Oyama",
+"country": "Japan",
+"races": 4,
+"first_year": 1976,
+"last_year": 2008
+},
+{
+"id": 17,
+"name": "Shanghai International Circuit",
+"ref": "shanghai",
+"location": "Shanghai",
+"country": "China",
+"races": 17,
+"first_year": 2004,
+"last_year": 2024
+},
+{
+"id": 18,
+"name": "Autódromo José Carlos Pace",
+"ref": "interlagos",
+"location": "São Paulo",
+"country": "Brazil",
+"races": 41,
+"first_year": 1973,
+"last_year": 2024
+},
+{
+"id": 19,
+"name": "Indianapolis Motor Speedway",
+"ref": "indianapolis",
+"location": "Indianapolis",
+"country": "USA",
+"races": 19,
+"first_year": 1950,
+"last_year": 2007
+},
+{
+"id": 20,
+"name": "Nürburgring",
+"ref": "nurburgring",
+"location": "Nürburg",
+"country": "Germany",
+"races": 41,
+"first_year": 1951,
+"last_year": 2020
+},
+{
+"id": 21,
+"name": "Autodromo Enzo e Dino Ferrari",
+"ref": "imola",
+"location": "Imola",
+"country": "Italy",
+"races": 31,
+"first_year": 1980,
+"last_year": 2024
+},
+{
+"id": 22,
+"name": "Suzuka Circuit",
+"ref": "suzuka",
+"location": "Suzuka",
+"country": "Japan",
+"races": 34,
+"first_year": 1987,
+"last_year": 2024
+},
+{
+"id": 24,
+"name": "Yas Marina Circuit",
+"ref": "yas_marina",
+"location": "Abu Dhabi",
+"country": "UAE",
+"races": 16,
+"first_year": 2009,
+"last_year": 2024
+},
+{
+"id": 25,
+"name": "Autódromo Juan y Oscar Gálvez",
+"ref": "galvez",
+"location": "Buenos Aires",
+"country": "Argentina",
+"races": 20,
+"first_year": 1953,
+"last_year": 1998
+},
+{
+"id": 26,
+"name": "Circuito de Jerez",
+"ref": "jerez",
+"location": "Jerez de la Frontera",
+"country": "Spain",
+"races": 7,
+"first_year": 1986,
+"last_year": 1997
+},
+{
+"id": 27,
+"name": "Autódromo do Estoril",
+"ref": "estoril",
+"location": "Estoril",
+"country": "Portugal",
+"races": 13,
+"first_year": 1984,
+"last_year": 1996
+},
+{
+"id": 28,
+"name": "Okayama International Circuit",
+"ref": "okayama",
+"location": "Okayama",
+"country": "Japan",
+"races": 2,
+"first_year": 1994,
+"last_year": 1995
+},
+{
+"id": 29,
+"name": "Adelaide Street Circuit",
+"ref": "adelaide",
+"location": "Adelaide",
+"country": "Australia",
+"races": 11,
+"first_year": 1985,
+"last_year": 1995
+},
+{
+"id": 30,
+"name": "Kyalami",
+"ref": "kyalami",
+"location": "Midrand",
+"country": "South Africa",
+"races": 20,
+"first_year": 1967,
+"last_year": 1993
+},
+{
+"id": 31,
+"name": "Donington Park",
+"ref": "donington",
+"location": "Castle Donington",
+"country": "UK",
+"races": 1,
+"first_year": 1993,
+"last_year": 1993
+},
+{
+"id": 32,
+"name": "Autódromo Hermanos Rodríguez",
+"ref": "rodriguez",
+"location": "Mexico City",
+"country": "Mexico",
+"races": 24,
+"first_year": 1963,
+"last_year": 2024
+},
+{
+"id": 33,
+"name": "Phoenix street circuit",
+"ref": "phoenix",
+"location": "Phoenix",
+"country": "USA",
+"races": 3,
+"first_year": 1989,
+"last_year": 1991
+},
+{
+"id": 34,
+"name": "Circuit Paul Ricard",
+"ref": "ricard",
+"location": "Le Castellet",
+"country": "France",
+"races": 18,
+"first_year": 1971,
+"last_year": 2022
+},
+{
+"id": 35,
+"name": "Korean International Circuit",
+"ref": "yeongam",
+"location": "Yeongam County",
+"country": "Korea",
+"races": 4,
+"first_year": 2010,
+"last_year": 2013
+},
+{
+"id": 36,
+"name": "Autódromo Internacional Nelson Piquet",
+"ref": "jacarepagua",
+"location": "Rio de Janeiro",
+"country": "Brazil",
+"races": 10,
+"first_year": 1978,
+"last_year": 1989
+},
+{
+"id": 37,
+"name": "Detroit Street Circuit",
+"ref": "detroit",
+"location": "Detroit",
+"country": "USA",
+"races": 7,
+"first_year": 1982,
+"last_year": 1988
+},
+{
+"id": 38,
+"name": "Brands Hatch",
+"ref": "brands_hatch",
+"location": "Kent",
+"country": "UK",
+"races": 14,
+"first_year": 1964,
+"last_year": 1986
+},
+{
+"id": 39,
+"name": "Circuit Park Zandvoort",
+"ref": "zandvoort",
+"location": "Zandvoort",
+"country": "Netherlands",
+"races": 34,
+"first_year": 1952,
+"last_year": 2024
+},
+{
+"id": 40,
+"name": "Zolder",
+"ref": "zolder",
+"location": "Heusden-Zolder",
+"country": "Belgium",
+"races": 10,
+"first_year": 1973,
+"last_year": 1984
+},
+{
+"id": 41,
+"name": "Dijon-Prenois",
+"ref": "dijon",
+"location": "Dijon",
+"country": "France",
+"races": 6,
+"first_year": 1974,
+"last_year": 1984
+},
+{
+"id": 42,
+"name": "Fair Park",
+"ref": "dallas",
+"location": "Dallas",
+"country": "USA",
+"races": 1,
+"first_year": 1984,
+"last_year": 1984
+},
+{
+"id": 43,
+"name": "Long Beach",
+"ref": "long_beach",
+"location": "California",
+"country": "USA",
+"races": 8,
+"first_year": 1976,
+"last_year": 1983
+},
+{
+"id": 44,
+"name": "Las Vegas Street Circuit",
+"ref": "las_vegas",
+"location": "Nevada",
+"country": "USA",
+"races": 2,
+"first_year": 1981,
+"last_year": 1982
+},
+{
+"id": 45,
+"name": "Jarama",
+"ref": "jarama",
+"location": "Madrid",
+"country": "Spain",
+"races": 9,
+"first_year": 1968,
+"last_year": 1981
+},
+{
+"id": 46,
+"name": "Watkins Glen",
+"ref": "watkins_glen",
+"location": "New York State",
+"country": "USA",
+"races": 20,
+"first_year": 1961,
+"last_year": 1980
+},
+{
+"id": 47,
+"name": "Scandinavian Raceway",
+"ref": "anderstorp",
+"location": "Anderstorp",
+"country": "Sweden",
+"races": 6,
+"first_year": 1973,
+"last_year": 1978
+},
+{
+"id": 48,
+"name": "Mosport International Raceway",
+"ref": "mosport",
+"location": "Ontario",
+"country": "Canada",
+"races": 8,
+"first_year": 1967,
+"last_year": 1977
+},
+{
+"id": 49,
+"name": "Montjuïc",
+"ref": "montjuic",
+"location": "Barcelona",
+"country": "Spain",
+"races": 4,
+"first_year": 1969,
+"last_year": 1975
+},
+{
+"id": 50,
+"name": "Nivelles-Baulers",
+"ref": "nivelles",
+"location": "Brussels",
+"country": "Belgium",
+"races": 2,
+"first_year": 1972,
+"last_year": 1974
+},
+{
+"id": 51,
+"name": "Charade Circuit",
+"ref": "charade",
+"location": "Clermont-Ferrand",
+"country": "France",
+"races": 4,
+"first_year": 1965,
+"last_year": 1972
+},
+{
+"id": 52,
+"name": "Circuit Mont-Tremblant",
+"ref": "tremblant",
+"location": "Quebec",
+"country": "Canada",
+"races": 2,
+"first_year": 1968,
+"last_year": 1970
+},
+{
+"id": 53,
+"name": "Rouen-Les-Essarts",
+"ref": "essarts",
+"location": "Rouen",
+"country": "France",
+"races": 5,
+"first_year": 1952,
+"last_year": 1968
+},
+{
+"id": 54,
+"name": "Le Mans",
+"ref": "lemans",
+"location": "Le Mans",
+"country": "France",
+"races": 1,
+"first_year": 1967,
+"last_year": 1967
+},
+{
+"id": 55,
+"name": "Reims-Gueux",
+"ref": "reims",
+"location": "Reims",
+"country": "France",
+"races": 11,
+"first_year": 1950,
+"last_year": 1966
+},
+{
+"id": 56,
+"name": "Prince George Circuit",
+"ref": "george",
+"location": "Eastern Cape Province",
+"country": "South Africa",
+"races": 3,
+"first_year": 1962,
+"last_year": 1965
+},
+{
+"id": 57,
+"name": "Zeltweg",
+"ref": "zeltweg",
+"location": "Styria",
+"country": "Austria",
+"races": 1,
+"first_year": 1964,
+"last_year": 1964
+},
+{
+"id": 58,
+"name": "Aintree",
+"ref": "aintree",
+"location": "Liverpool",
+"country": "UK",
+"races": 5,
+"first_year": 1955,
+"last_year": 1962
+},
+{
+"id": 59,
+"name": "Circuito da Boavista",
+"ref": "boavista",
+"location": "Oporto",
+"country": "Portugal",
+"races": 2,
+"first_year": 1958,
+"last_year": 1960
+},
+{
+"id": 60,
+"name": "Riverside International Raceway",
+"ref": "riverside",
+"location": "California",
+"country": "USA",
+"races": 1,
+"first_year": 1960,
+"last_year": 1960
+},
+{
+"id": 61,
+"name": "AVUS",
+"ref": "avus",
+"location": "Berlin",
+"country": "Germany",
+"races": 1,
+"first_year": 1959,
+"last_year": 1959
+},
+{
+"id": 62,
+"name": "Monsanto Park Circuit",
+"ref": "monsanto",
+"location": "Lisbon",
+"country": "Portugal",
+"races": 1,
+"first_year": 1959,
+"last_year": 1959
+},
+{
+"id": 63,
+"name": "Sebring International Raceway",
+"ref": "sebring",
+"location": "Florida",
+"country": "USA",
+"races": 1,
+"first_year": 1959,
+"last_year": 1959
+},
+{
+"id": 64,
+"name": "Ain Diab",
+"ref": "ain-diab",
+"location": "Casablanca",
+"country": "Morocco",
+"races": 1,
+"first_year": 1958,
+"last_year": 1958
+},
+{
+"id": 65,
+"name": "Pescara Circuit",
+"ref": "pescara",
+"location": "Pescara",
+"country": "Italy",
+"races": 1,
+"first_year": 1957,
+"last_year": 1957
+},
+{
+"id": 66,
+"name": "Circuit Bremgarten",
+"ref": "bremgarten",
+"location": "Bern",
+"country": "Switzerland",
+"races": 5,
+"first_year": 1950,
+"last_year": 1954
+},
+{
+"id": 67,
+"name": "Circuit de Pedralbes",
+"ref": "pedralbes",
+"location": "Barcelona",
+"country": "Spain",
+"races": 2,
+"first_year": 1951,
+"last_year": 1954
+},
+{
+"id": 68,
+"name": "Buddh International Circuit",
+"ref": "buddh",
+"location": "Uttar Pradesh",
+"country": "India",
+"races": 3,
+"first_year": 2011,
+"last_year": 2013
+},
+{
+"id": 69,
+"name": "Circuit of the Americas",
+"ref": "americas",
+"location": "Austin",
+"country": "USA",
+"races": 12,
+"first_year": 2012,
+"last_year": 2024
+},
+{
+"id": 70,
+"name": "Red Bull Ring",
+"ref": "red_bull_ring",
+"location": "Spielberg",
+"country": "Austria",
+"races": 38,
+"first_year": 1970,
+"last_year": 2024
+},
+{
+"id": 71,
+"name": "Sochi Autodrom",
+"ref": "sochi",
+"location": "Sochi",
+"country": "Russia",
+"races": 8,
+"first_year": 2014,
+"last_year": 2021
+},
+{
+"id": 73,
+"name": "Baku City Circuit",
+"ref": "baku",
+"location": "Baku",
+"country": "Azerbaijan",
+"races": 8,
+"first_year": 2016,
+"last_year": 2024
+},
+{
+"id": 75,
+"name": "Autódromo Internacional do Algarve",
+"ref": "portimao",
+"location": "Portimão",
+"country": "Portugal",
+"races": 2,
+"first_year": 2020,
+"last_year": 2021
+},
+{
+"id": 76,
+"name": "Autodromo Internazionale del Mugello",
+"ref": "mugello",
+"location": "Mugello",
+"country": "Italy",
+"races": 1,
+"first_year": 2020,
+"last_year": 2020
+},
+{
+"id": 77,
+"name": "Jeddah Corniche Circuit",
+"ref": "jeddah",
+"location": "Jeddah",
+"country": "Saudi Arabia",
+"races": 4,
+"first_year": 2021,
+"last_year": 2024
+},
+{
+"id": 78,
+"name": "Losail International Circuit",
+"ref": "losail",
+"location": "Al Daayen",
+"country": "Qatar",
+"races": 3,
+"first_year": 2021,
+"last_year": 2024
+},
+{
+"id": 79,
+"name": "Miami International Autodrome",
+"ref": "miami",
+"location": "Miami",
+"country": "USA",
+"races": 3,
+"first_year": 2022,
+"last_year": 2024
+},
+{
+"id": 80,
+"name": "Las Vegas Strip Street Circuit",
+"ref": "vegas",
+"location": "Las Vegas",
+"country": "United States",
+"races": 2,
+"first_year": 2023,
+"last_year": 2024
+}
+]

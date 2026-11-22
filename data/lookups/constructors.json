@@ -1,0 +1,1690 @@
+[
+{
+"id": 1,
+"name": "McLaren",
+"ref": "mclaren",
+"first_season": 1968,
+"last_season": 2024,
+"entries": 1923
+},
+{
+"id": 2,
+"name": "BMW Sauber",
+"ref": "bmw_sauber",
+"first_season": 2006,
+"last_season": 2009,
+"entries": 140
+},
+{
+"id": 3,
+"name": "Williams",
+"ref": "williams",
+"first_season": 1975,
+"last_season": 2024,
+"entries": 1676
+},
+{
+"id": 4,
+"name": "Renault",
+"ref": "renault",
+"first_season": 1977,
+"last_season": 2020,
+"entries": 787
+},
+{
+"id": 5,
+"name": "Toro Rosso",
+"ref": "toro_rosso",
+"first_season": 2006,
+"last_season": 2019,
+"entries": 536
+},
+{
+"id": 6,
+"name": "Ferrari",
+"ref": "ferrari",
+"first_season": 1950,
+"last_season": 2024,
+"entries": 2439
+},
+{
+"id": 7,
+"name": "Toyota",
+"ref": "toyota",
+"first_season": 2002,
+"last_season": 2009,
+"entries": 280
+},
+{
+"id": 8,
+"name": "Super Aguri",
+"ref": "super_aguri",
+"first_season": 2006,
+"last_season": 2008,
+"entries": 78
+},
+{
+"id": 9,
+"name": "Red Bull",
+"ref": "red_bull",
+"first_season": 2005,
+"last_season": 2024,
+"entries": 788
+},
+{
+"id": 10,
+"name": "Force India",
+"ref": "force_india",
+"first_season": 2008,
+"last_season": 2018,
+"entries": 424
+},
+{
+"id": 11,
+"name": "Honda",
+"ref": "honda",
+"first_season": 1964,
+"last_season": 2008,
+"entries": 152
+},
+{
+"id": 12,
+"name": "Spyker",
+"ref": "spyker",
+"first_season": 2007,
+"last_season": 2007,
+"entries": 34
+},
+{
+"id": 13,
+"name": "MF1",
+"ref": "mf1",
+"first_season": 2006,
+"last_season": 2006,
+"entries": 28
+},
+{
+"id": 14,
+"name": "Spyker MF1",
+"ref": "spyker_mf1",
+"first_season": 2006,
+"last_season": 2006,
+"entries": 8
+},
+{
+"id": 15,
+"name": "Sauber",
+"ref": "sauber",
+"first_season": 1993,
+"last_season": 2024,
+"entries": 837
+},
+{
+"id": 16,
+"name": "BAR",
+"ref": "bar",
+"first_season": 1999,
+"last_season": 2005,
+"entries": 236
+},
+{
+"id": 17,
+"name": "Jordan",
+"ref": "jordan",
+"first_season": 1991,
+"last_season": 2005,
+"entries": 500
+},
+{
+"id": 18,
+"name": "Minardi",
+"ref": "minardi",
+"first_season": 1985,
+"last_season": 2005,
+"entries": 672
+},
+{
+"id": 19,
+"name": "Jaguar",
+"ref": "jaguar",
+"first_season": 2000,
+"last_season": 2004,
+"entries": 170
+},
+{
+"id": 20,
+"name": "Prost",
+"ref": "prost",
+"first_season": 1997,
+"last_season": 2001,
+"entries": 165
+},
+{
+"id": 21,
+"name": "Arrows",
+"ref": "arrows",
+"first_season": 1978,
+"last_season": 2002,
+"entries": 590
+},
+{
+"id": 22,
+"name": "Benetton",
+"ref": "benetton",
+"first_season": 1986,
+"last_season": 2001,
+"entries": 520
+},
+{
+"id": 23,
+"name": "Brawn",
+"ref": "brawn",
+"first_season": 2009,
+"last_season": 2009,
+"entries": 34
+},
+{
+"id": 24,
+"name": "Stewart",
+"ref": "stewart",
+"first_season": 1997,
+"last_season": 1999,
+"entries": 98
+},
+{
+"id": 25,
+"name": "Tyrrell",
+"ref": "tyrrell",
+"first_season": 1970,
+"last_season": 1998,
+"entries": 881
+},
+{
+"id": 26,
+"name": "Lola",
+"ref": "lola",
+"first_season": 1962,
+"last_season": 1997,
+"entries": 165
+},
+{
+"id": 27,
+"name": "Ligier",
+"ref": "ligier",
+"first_season": 1976,
+"last_season": 1996,
+"entries": 611
+},
+{
+"id": 28,
+"name": "Forti",
+"ref": "forti",
+"first_season": 1995,
+"last_season": 1996,
+"entries": 54
+},
+{
+"id": 29,
+"name": "Footwork",
+"ref": "footwork",
+"first_season": 1991,
+"last_season": 1996,
+"entries": 194
+},
+{
+"id": 30,
+"name": "Pacific",
+"ref": "pacific",
+"first_season": 1994,
+"last_season": 1995,
+"entries": 66
+},
+{
+"id": 31,
+"name": "Simtek",
+"ref": "simtek",
+"first_season": 1994,
+"last_season": 1995,
+"entries": 40
+},
+{
+"id": 32,
+"name": "Team Lotus",
+"ref": "team_lotus",
+"first_season": 1958,
+"last_season": 1994,
+"entries": 871
+},
+{
+"id": 33,
+"name": "Larrousse",
+"ref": "larrousse",
+"first_season": 1987,
+"last_season": 1994,
+"entries": 216
+},
+{
+"id": 34,
+"name": "Brabham",
+"ref": "brabham",
+"first_season": 1962,
+"last_season": 1992,
+"entries": 662
+},
+{
+"id": 35,
+"name": "Dallara",
+"ref": "dallara",
+"first_season": 1988,
+"last_season": 1992,
+"entries": 144
+},
+{
+"id": 36,
+"name": "Fondmetal",
+"ref": "fondmetal",
+"first_season": 1991,
+"last_season": 1992,
+"entries": 42
+},
+{
+"id": 37,
+"name": "March",
+"ref": "march",
+"first_season": 1970,
+"last_season": 1992,
+"entries": 524
+},
+{
+"id": 38,
+"name": "Andrea Moda",
+"ref": "moda",
+"first_season": 1992,
+"last_season": 1992,
+"entries": 15
+},
+{
+"id": 39,
+"name": "AGS",
+"ref": "ags",
+"first_season": 1986,
+"last_season": 1991,
+"entries": 123
+},
+{
+"id": 40,
+"name": "Lambo",
+"ref": "lambo",
+"first_season": 1991,
+"last_season": 1991,
+"entries": 32
+},
+{
+"id": 41,
+"name": "Leyton House",
+"ref": "leyton",
+"first_season": 1990,
+"last_season": 1991,
+"entries": 64
+},
+{
+"id": 42,
+"name": "Coloni",
+"ref": "coloni",
+"first_season": 1987,
+"last_season": 1991,
+"entries": 81
+},
+{
+"id": 44,
+"name": "Euro Brun",
+"ref": "eurobrun",
+"first_season": 1988,
+"last_season": 1990,
+"entries": 76
+},
+{
+"id": 45,
+"name": "Osella",
+"ref": "osella",
+"first_season": 1980,
+"last_season": 1990,
+"entries": 252
+},
+{
+"id": 46,
+"name": "Onyx",
+"ref": "onyx",
+"first_season": 1989,
+"last_season": 1990,
+"entries": 52
+},
+{
+"id": 47,
+"name": "Life",
+"ref": "life",
+"first_season": 1990,
+"last_season": 1990,
+"entries": 14
+},
+{
+"id": 48,
+"name": "Rial",
+"ref": "rial",
+"first_season": 1988,
+"last_season": 1989,
+"entries": 48
+},
+{
+"id": 49,
+"name": "Zakspeed",
+"ref": "zakspeed",
+"first_season": 1985,
+"last_season": 1989,
+"entries": 133
+},
+{
+"id": 50,
+"name": "RAM",
+"ref": "ram",
+"first_season": 1983,
+"last_season": 1985,
+"entries": 71
+},
+{
+"id": 51,
+"name": "Alfa Romeo",
+"ref": "alfa",
+"first_season": 1950,
+"last_season": 2023,
+"entries": 451
+},
+{
+"id": 52,
+"name": "Spirit",
+"ref": "spirit",
+"first_season": 1983,
+"last_season": 1985,
+"entries": 25
+},
+{
+"id": 53,
+"name": "Toleman",
+"ref": "toleman",
+"first_season": 1981,
+"last_season": 1985,
+"entries": 131
+},
+{
+"id": 54,
+"name": "ATS",
+"ref": "ats",
+"first_season": 1963,
+"last_season": 1984,
+"entries": 162
+},
+{
+"id": 55,
+"name": "Theodore",
+"ref": "theodore",
+"first_season": 1978,
+"last_season": 1983,
+"entries": 64
+},
+{
+"id": 56,
+"name": "Fittipaldi",
+"ref": "fittipaldi",
+"first_season": 1975,
+"last_season": 1982,
+"entries": 155
+},
+{
+"id": 57,
+"name": "Ensign",
+"ref": "ensign",
+"first_season": 1973,
+"last_season": 1982,
+"entries": 154
+},
+{
+"id": 58,
+"name": "Shadow",
+"ref": "shadow",
+"first_season": 1973,
+"last_season": 1980,
+"entries": 211
+},
+{
+"id": 59,
+"name": "Wolf",
+"ref": "wolf",
+"first_season": 1976,
+"last_season": 1979,
+"entries": 79
+},
+{
+"id": 60,
+"name": "Merzario",
+"ref": "merzario",
+"first_season": 1978,
+"last_season": 1979,
+"entries": 32
+},
+{
+"id": 61,
+"name": "Kauhsen",
+"ref": "kauhsen",
+"first_season": 1979,
+"last_season": 1979,
+"entries": 2
+},
+{
+"id": 62,
+"name": "Rebaque",
+"ref": "rebaque",
+"first_season": 1979,
+"last_season": 1979,
+"entries": 3
+},
+{
+"id": 63,
+"name": "Surtees",
+"ref": "surtees",
+"first_season": 1970,
+"last_season": 1978,
+"entries": 260
+},
+{
+"id": 64,
+"name": "Hesketh",
+"ref": "hesketh",
+"first_season": 1974,
+"last_season": 1978,
+"entries": 97
+},
+{
+"id": 65,
+"name": "Martini",
+"ref": "martini",
+"first_season": 1978,
+"last_season": 1978,
+"entries": 8
+},
+{
+"id": 66,
+"name": "BRM",
+"ref": "brm",
+"first_season": 1951,
+"last_season": 1977,
+"entries": 562
+},
+{
+"id": 67,
+"name": "Penske",
+"ref": "penske",
+"first_season": 1974,
+"last_season": 1977,
+"entries": 46
+},
+{
+"id": 68,
+"name": "LEC",
+"ref": "lec",
+"first_season": 1977,
+"last_season": 1977,
+"entries": 5
+},
+{
+"id": 69,
+"name": "McGuire",
+"ref": "mcguire",
+"first_season": 1977,
+"last_season": 1977,
+"entries": 1
+},
+{
+"id": 70,
+"name": "Boro",
+"ref": "boro",
+"first_season": 1976,
+"last_season": 1977,
+"entries": 8
+},
+{
+"id": 71,
+"name": "Apollon",
+"ref": "apollon",
+"first_season": 1977,
+"last_season": 1977,
+"entries": 1
+},
+{
+"id": 72,
+"name": "Kojima",
+"ref": "kojima",
+"first_season": 1976,
+"last_season": 1977,
+"entries": 3
+},
+{
+"id": 73,
+"name": "Parnelli",
+"ref": "parnelli",
+"first_season": 1974,
+"last_season": 1976,
+"entries": 16
+},
+{
+"id": 74,
+"name": "Maki",
+"ref": "maki",
+"first_season": 1974,
+"last_season": 1976,
+"entries": 8
+},
+{
+"id": 75,
+"name": "Embassy Hill",
+"ref": "hill",
+"first_season": 1975,
+"last_season": 1975,
+"entries": 19
+},
+{
+"id": 76,
+"name": "Lyncar",
+"ref": "lyncar",
+"first_season": 1974,
+"last_season": 1975,
+"entries": 2
+},
+{
+"id": 77,
+"name": "Trojan",
+"ref": "trojan",
+"first_season": 1974,
+"last_season": 1974,
+"entries": 8
+},
+{
+"id": 78,
+"name": "Amon",
+"ref": "amon",
+"first_season": 1974,
+"last_season": 1974,
+"entries": 5
+},
+{
+"id": 79,
+"name": "Token",
+"ref": "token",
+"first_season": 1974,
+"last_season": 1974,
+"entries": 4
+},
+{
+"id": 80,
+"name": "Iso Marlboro",
+"ref": "iso_marlboro",
+"first_season": 1973,
+"last_season": 1974,
+"entries": 55
+},
+{
+"id": 81,
+"name": "Tecno",
+"ref": "tecno",
+"first_season": 1972,
+"last_season": 1973,
+"entries": 11
+},
+{
+"id": 82,
+"name": "Matra",
+"ref": "matra",
+"first_season": 1967,
+"last_season": 1972,
+"entries": 71
+},
+{
+"id": 83,
+"name": "Politoys",
+"ref": "politoys",
+"first_season": 1972,
+"last_season": 1972,
+"entries": 1
+},
+{
+"id": 84,
+"name": "Connew",
+"ref": "connew",
+"first_season": 1972,
+"last_season": 1972,
+"entries": 1
+},
+{
+"id": 85,
+"name": "Bellasi",
+"ref": "bellasi",
+"first_season": 1970,
+"last_season": 1971,
+"entries": 6
+},
+{
+"id": 86,
+"name": "De Tomaso",
+"ref": "tomaso",
+"first_season": 1962,
+"last_season": 1970,
+"entries": 14
+},
+{
+"id": 87,
+"name": "Cooper",
+"ref": "cooper",
+"first_season": 1950,
+"last_season": 1962,
+"entries": 103
+},
+{
+"id": 89,
+"name": "LDS",
+"ref": "lds",
+"first_season": 1962,
+"last_season": 1968,
+"entries": 4
+},
+{
+"id": 90,
+"name": "Protos",
+"ref": "protos",
+"first_season": 1967,
+"last_season": 1967,
+"entries": 2
+},
+{
+"id": 91,
+"name": "Shannon",
+"ref": "shannon",
+"first_season": 1966,
+"last_season": 1966,
+"entries": 1
+},
+{
+"id": 92,
+"name": "Scirocco",
+"ref": "scirocco",
+"first_season": 1963,
+"last_season": 1964,
+"entries": 17
+},
+{
+"id": 93,
+"name": "RE",
+"ref": "re",
+"first_season": 1965,
+"last_season": 1965,
+"entries": 1
+},
+{
+"id": 94,
+"name": "BRP",
+"ref": "brp",
+"first_season": 1963,
+"last_season": 1964,
+"entries": 19
+},
+{
+"id": 95,
+"name": "Porsche",
+"ref": "porsche",
+"first_season": 1957,
+"last_season": 1964,
+"entries": 84
+},
+{
+"id": 96,
+"name": "Derrington",
+"ref": "derrington",
+"first_season": 1964,
+"last_season": 1964,
+"entries": 1
+},
+{
+"id": 97,
+"name": "Gilby",
+"ref": "gilby",
+"first_season": 1961,
+"last_season": 1963,
+"entries": 7
+},
+{
+"id": 98,
+"name": "Stebro",
+"ref": "stebro",
+"first_season": 1963,
+"last_season": 1963,
+"entries": 2
+},
+{
+"id": 99,
+"name": "Emeryson",
+"ref": "emeryson",
+"first_season": 1956,
+"last_season": 1962,
+"entries": 11
+},
+{
+"id": 100,
+"name": "ENB",
+"ref": "enb",
+"first_season": 1962,
+"last_season": 1962,
+"entries": 1
+},
+{
+"id": 101,
+"name": "JBW",
+"ref": "jbw",
+"first_season": 1959,
+"last_season": 1961,
+"entries": 6
+},
+{
+"id": 102,
+"name": "Ferguson",
+"ref": "ferguson",
+"first_season": 1961,
+"last_season": 1961,
+"entries": 2
+},
+{
+"id": 103,
+"name": "MBM",
+"ref": "mbm",
+"first_season": 1961,
+"last_season": 1961,
+"entries": 1
+},
+{
+"id": 104,
+"name": "Behra-Porsche",
+"ref": "behra-porsche",
+"first_season": 1960,
+"last_season": 1960,
+"entries": 2
+},
+{
+"id": 105,
+"name": "Maserati",
+"ref": "maserati",
+"first_season": 1950,
+"last_season": 1960,
+"entries": 436
+},
+{
+"id": 106,
+"name": "Scarab",
+"ref": "scarab",
+"first_season": 1960,
+"last_season": 1960,
+"entries": 9
+},
+{
+"id": 107,
+"name": "Watson",
+"ref": "watson",
+"first_season": 1950,
+"last_season": 1960,
+"entries": 22
+},
+{
+"id": 108,
+"name": "Epperly",
+"ref": "epperly",
+"first_season": 1955,
+"last_season": 1960,
+"entries": 17
+},
+{
+"id": 109,
+"name": "Phillips",
+"ref": "phillips",
+"first_season": 1954,
+"last_season": 1960,
+"entries": 7
+},
+{
+"id": 110,
+"name": "Lesovsky",
+"ref": "lesovsky",
+"first_season": 1950,
+"last_season": 1960,
+"entries": 15
+},
+{
+"id": 111,
+"name": "Trevis",
+"ref": "trevis",
+"first_season": 1951,
+"last_season": 1960,
+"entries": 6
+},
+{
+"id": 112,
+"name": "Meskowski",
+"ref": "meskowski",
+"first_season": 1960,
+"last_season": 1960,
+"entries": 2
+},
+{
+"id": 113,
+"name": "Kurtis Kraft",
+"ref": "kurtis_kraft",
+"first_season": 1950,
+"last_season": 1960,
+"entries": 226
+},
+{
+"id": 114,
+"name": "Kuzma",
+"ref": "kuzma",
+"first_season": 1951,
+"last_season": 1960,
+"entries": 39
+},
+{
+"id": 115,
+"name": "Christensen",
+"ref": "vhristensen",
+"first_season": 1959,
+"last_season": 1960,
+"entries": 2
+},
+{
+"id": 116,
+"name": "Ewing",
+"ref": "ewing",
+"first_season": 1950,
+"last_season": 1960,
+"entries": 3
+},
+{
+"id": 117,
+"name": "Aston Martin",
+"ref": "aston_martin",
+"first_season": 1959,
+"last_season": 2024,
+"entries": 191
+},
+{
+"id": 118,
+"name": "Vanwall",
+"ref": "vanwall",
+"first_season": 1954,
+"last_season": 1960,
+"entries": 71
+},
+{
+"id": 119,
+"name": "Moore",
+"ref": "moore",
+"first_season": 1950,
+"last_season": 1959,
+"entries": 3
+},
+{
+"id": 120,
+"name": "Dunn",
+"ref": "dunn",
+"first_season": 1957,
+"last_season": 1959,
+"entries": 3
+},
+{
+"id": 121,
+"name": "Elder",
+"ref": "elder",
+"first_season": 1959,
+"last_season": 1959,
+"entries": 1
+},
+{
+"id": 122,
+"name": "Sutton",
+"ref": "sutton",
+"first_season": 1959,
+"last_season": 1959,
+"entries": 1
+},
+{
+"id": 123,
+"name": "Fry",
+"ref": "fry",
+"first_season": 1959,
+"last_season": 1959,
+"entries": 1
+},
+{
+"id": 124,
+"name": "Tec-Mec",
+"ref": "tec-mec",
+"first_season": 1959,
+"last_season": 1959,
+"entries": 1
+},
+{
+"id": 125,
+"name": "Connaught",
+"ref": "connaught",
+"first_season": 1952,
+"last_season": 1959,
+"entries": 54
+},
+{
+"id": 126,
+"name": "Alta",
+"ref": "alta",
+"first_season": 1950,
+"last_season": 1952,
+"entries": 6
+},
+{
+"id": 127,
+"name": "OSCA",
+"ref": "osca",
+"first_season": 1951,
+"last_season": 1958,
+"entries": 8
+},
+{
+"id": 128,
+"name": "Gordini",
+"ref": "gordini",
+"first_season": 1952,
+"last_season": 1956,
+"entries": 102
+},
+{
+"id": 129,
+"name": "Stevens",
+"ref": "stevens",
+"first_season": 1950,
+"last_season": 1956,
+"entries": 10
+},
+{
+"id": 130,
+"name": "Bugatti",
+"ref": "bugatti",
+"first_season": 1956,
+"last_season": 1956,
+"entries": 1
+},
+{
+"id": 131,
+"name": "Mercedes",
+"ref": "mercedes",
+"first_season": 1954,
+"last_season": 2024,
+"entries": 652
+},
+{
+"id": 132,
+"name": "Lancia",
+"ref": "lancia",
+"first_season": 1954,
+"last_season": 1955,
+"entries": 11
+},
+{
+"id": 133,
+"name": "HWM",
+"ref": "hwm",
+"first_season": 1951,
+"last_season": 1955,
+"entries": 47
+},
+{
+"id": 134,
+"name": "Schroeder",
+"ref": "schroeder",
+"first_season": 1951,
+"last_season": 1955,
+"entries": 8
+},
+{
+"id": 135,
+"name": "Pawl",
+"ref": "pawl",
+"first_season": 1951,
+"last_season": 1955,
+"entries": 4
+},
+{
+"id": 136,
+"name": "Pankratz",
+"ref": "pankratz",
+"first_season": 1954,
+"last_season": 1955,
+"entries": 2
+},
+{
+"id": 137,
+"name": "Arzani-Volpini",
+"ref": "arzani-volpini",
+"first_season": 1955,
+"last_season": 1955,
+"entries": 1
+},
+{
+"id": 138,
+"name": "Nichels",
+"ref": "nichels",
+"first_season": 1950,
+"last_season": 1954,
+"entries": 4
+},
+{
+"id": 139,
+"name": "Bromme",
+"ref": "bromme",
+"first_season": 1951,
+"last_season": 1954,
+"entries": 5
+},
+{
+"id": 140,
+"name": "Klenk",
+"ref": "klenk",
+"first_season": 1954,
+"last_season": 1954,
+"entries": 1
+},
+{
+"id": 141,
+"name": "Simca",
+"ref": "simca",
+"first_season": 1950,
+"last_season": 1953,
+"entries": 29
+},
+{
+"id": 142,
+"name": "Turner",
+"ref": "turner",
+"first_season": 1953,
+"last_season": 1953,
+"entries": 1
+},
+{
+"id": 143,
+"name": "Del Roy",
+"ref": "del_roy",
+"first_season": 1953,
+"last_season": 1953,
+"entries": 1
+},
+{
+"id": 144,
+"name": "Veritas",
+"ref": "veritas",
+"first_season": 1951,
+"last_season": 1953,
+"entries": 18
+},
+{
+"id": 145,
+"name": "BMW",
+"ref": "bmw",
+"first_season": 1952,
+"last_season": 1953,
+"entries": 6
+},
+{
+"id": 146,
+"name": "EMW",
+"ref": "emw",
+"first_season": 1953,
+"last_season": 1953,
+"entries": 1
+},
+{
+"id": 147,
+"name": "AFM",
+"ref": "afm",
+"first_season": 1952,
+"last_season": 1953,
+"entries": 7
+},
+{
+"id": 148,
+"name": "Frazer Nash",
+"ref": "frazer_nash",
+"first_season": 1952,
+"last_season": 1952,
+"entries": 4
+},
+{
+"id": 149,
+"name": "Sherman",
+"ref": "sherman",
+"first_season": 1951,
+"last_season": 1952,
+"entries": 2
+},
+{
+"id": 150,
+"name": "Deidt",
+"ref": "deidt",
+"first_season": 1950,
+"last_season": 1952,
+"entries": 8
+},
+{
+"id": 151,
+"name": "ERA",
+"ref": "era",
+"first_season": 1950,
+"last_season": 1952,
+"entries": 13
+},
+{
+"id": 152,
+"name": "Aston Butterworth",
+"ref": "butterworth",
+"first_season": 1952,
+"last_season": 1952,
+"entries": 4
+},
+{
+"id": 153,
+"name": "Cisitalia",
+"ref": "cisitalia",
+"first_season": 1952,
+"last_season": 1952,
+"entries": 1
+},
+{
+"id": 154,
+"name": "Talbot-Lago",
+"ref": "lago",
+"first_season": 1950,
+"last_season": 1951,
+"entries": 82
+},
+{
+"id": 155,
+"name": "Hall",
+"ref": "hall",
+"first_season": 1951,
+"last_season": 1951,
+"entries": 1
+},
+{
+"id": 156,
+"name": "Marchese",
+"ref": "marchese",
+"first_season": 1950,
+"last_season": 1951,
+"entries": 2
+},
+{
+"id": 157,
+"name": "Langley",
+"ref": "langley",
+"first_season": 1950,
+"last_season": 1950,
+"entries": 1
+},
+{
+"id": 158,
+"name": "Rae",
+"ref": "rae",
+"first_season": 1950,
+"last_season": 1950,
+"entries": 1
+},
+{
+"id": 159,
+"name": "Olson",
+"ref": "olson",
+"first_season": 1950,
+"last_season": 1950,
+"entries": 1
+},
+{
+"id": 160,
+"name": "Wetteroth",
+"ref": "wetteroth",
+"first_season": 1950,
+"last_season": 1950,
+"entries": 1
+},
+{
+"id": 161,
+"name": "Adams",
+"ref": "adams",
+"first_season": 1950,
+"last_season": 1950,
+"entries": 2
+},
+{
+"id": 162,
+"name": "Snowberger",
+"ref": "snowberger",
+"first_season": 1950,
+"last_season": 1950,
+"entries": 1
+},
+{
+"id": 163,
+"name": "Milano",
+"ref": "milano",
+"first_season": 1950,
+"last_season": 1950,
+"entries": 1
+},
+{
+"id": 164,
+"name": "HRT",
+"ref": "hrt",
+"first_season": 2010,
+"last_season": 2012,
+"entries": 116
+},
+{
+"id": 166,
+"name": "Virgin",
+"ref": "virgin",
+"first_season": 2010,
+"last_season": 2011,
+"entries": 76
+},
+{
+"id": 167,
+"name": "Cooper-Maserati",
+"ref": "cooper-maserati",
+"first_season": 1959,
+"last_season": 1969,
+"entries": 134
+},
+{
+"id": 168,
+"name": "Cooper-OSCA",
+"ref": "cooper-osca",
+"first_season": 1959,
+"last_season": 1959,
+"entries": 1
+},
+{
+"id": 169,
+"name": "Cooper-Borgward",
+"ref": "cooper-borgward",
+"first_season": 1959,
+"last_season": 1959,
+"entries": 3
+},
+{
+"id": 170,
+"name": "Cooper-Climax",
+"ref": "cooper-climax",
+"first_season": 1959,
+"last_season": 1968,
+"entries": 268
+},
+{
+"id": 171,
+"name": "Cooper-Castellotti",
+"ref": "cooper-castellotti",
+"first_season": 1960,
+"last_season": 1960,
+"entries": 6
+},
+{
+"id": 172,
+"name": "Lotus-Climax",
+"ref": "lotus-climax",
+"first_season": 1961,
+"last_season": 1967,
+"entries": 233
+},
+{
+"id": 173,
+"name": "Lotus-Maserati",
+"ref": "lotus-maserati",
+"first_season": 1961,
+"last_season": 1963,
+"entries": 2
+},
+{
+"id": 174,
+"name": "De Tomaso-Osca",
+"ref": "de_tomaso-osca",
+"first_season": 1961,
+"last_season": 1962,
+"entries": 3
+},
+{
+"id": 175,
+"name": "De Tomaso-Alfa Romeo",
+"ref": "de_tomaso-alfa_romeo",
+"first_season": 1961,
+"last_season": 1962,
+"entries": 3
+},
+{
+"id": 176,
+"name": "Lotus-BRM",
+"ref": "lotus-brm",
+"first_season": 1962,
+"last_season": 1967,
+"entries": 121
+},
+{
+"id": 177,
+"name": "Lotus-Borgward",
+"ref": "lotus-borgward",
+"first_season": 1962,
+"last_season": 1963,
+"entries": 2
+},
+{
+"id": 178,
+"name": "Cooper-Alfa Romeo",
+"ref": "cooper-alfa_romeo",
+"first_season": 1962,
+"last_season": 1962,
+"entries": 1
+},
+{
+"id": 179,
+"name": "De Tomaso-Ferrari",
+"ref": "de_tomaso-ferrari",
+"first_season": 1963,
+"last_season": 1963,
+"entries": 1
+},
+{
+"id": 180,
+"name": "Lotus-Ford",
+"ref": "lotus-ford",
+"first_season": 1963,
+"last_season": 1971,
+"entries": 128
+},
+{
+"id": 181,
+"name": "Brabham-BRM",
+"ref": "brabham-brm",
+"first_season": 1964,
+"last_season": 1966,
+"entries": 41
+},
+{
+"id": 182,
+"name": "Brabham-Ford",
+"ref": "brabham-ford",
+"first_season": 1964,
+"last_season": 1979,
+"entries": 58
+},
+{
+"id": 183,
+"name": "Brabham-Climax",
+"ref": "brabham-climax",
+"first_season": 1964,
+"last_season": 1969,
+"entries": 93
+},
+{
+"id": 184,
+"name": "LDS-Climax",
+"ref": "lds-climax",
+"first_season": 1965,
+"last_season": 1967,
+"entries": 2
+},
+{
+"id": 185,
+"name": "LDS-Alfa Romeo",
+"ref": "lds-alfa_romeo",
+"first_season": 1965,
+"last_season": 1965,
+"entries": 2
+},
+{
+"id": 186,
+"name": "Cooper-Ford",
+"ref": "cooper-ford",
+"first_season": 1965,
+"last_season": 1965,
+"entries": 2
+},
+{
+"id": 187,
+"name": "McLaren-Ford",
+"ref": "mclaren-ford",
+"first_season": 1966,
+"last_season": 1970,
+"entries": 87
+},
+{
+"id": 188,
+"name": "McLaren-Serenissima",
+"ref": "mclaren-seren",
+"first_season": 1966,
+"last_season": 1966,
+"entries": 2
+},
+{
+"id": 189,
+"name": "Eagle-Climax",
+"ref": "eagle-climax",
+"first_season": 1966,
+"last_season": 1969,
+"entries": 13
+},
+{
+"id": 190,
+"name": "Eagle-Weslake",
+"ref": "eagle-weslake",
+"first_season": 1966,
+"last_season": 1968,
+"entries": 21
+},
+{
+"id": 191,
+"name": "Brabham-Repco",
+"ref": "brabham-repco",
+"first_season": 1966,
+"last_season": 1969,
+"entries": 77
+},
+{
+"id": 192,
+"name": "Cooper-Ferrari",
+"ref": "cooper-ferrari",
+"first_season": 1966,
+"last_season": 1966,
+"entries": 2
+},
+{
+"id": 193,
+"name": "Cooper-ATS",
+"ref": "cooper-ats",
+"first_season": 1967,
+"last_season": 1967,
+"entries": 1
+},
+{
+"id": 194,
+"name": "McLaren-BRM",
+"ref": "mclaren-brm",
+"first_season": 1967,
+"last_season": 1968,
+"entries": 14
+},
+{
+"id": 195,
+"name": "Cooper-BRM",
+"ref": "cooper-brm",
+"first_season": 1968,
+"last_season": 1968,
+"entries": 21
+},
+{
+"id": 196,
+"name": "Matra-Ford",
+"ref": "matra-ford",
+"first_season": 1968,
+"last_season": 1969,
+"entries": 40
+},
+{
+"id": 197,
+"name": "BRM-Ford",
+"ref": "brm-ford",
+"first_season": 1969,
+"last_season": 1969,
+"entries": 1
+},
+{
+"id": 198,
+"name": "McLaren-Alfa Romeo",
+"ref": "mclaren-alfa_romeo",
+"first_season": 1970,
+"last_season": 1970,
+"entries": 11
+},
+{
+"id": 199,
+"name": "March-Alfa Romeo",
+"ref": "march-alfa_romeo",
+"first_season": 1971,
+"last_season": 1971,
+"entries": 10
+},
+{
+"id": 200,
+"name": "March-Ford",
+"ref": "march-ford",
+"first_season": 1971,
+"last_season": 1971,
+"entries": 43
+},
+{
+"id": 201,
+"name": "Lotus-Pratt &amp; Whitney",
+"ref": "lotus-pw",
+"first_season": 1971,
+"last_season": 1971,
+"entries": 3
+},
+{
+"id": 202,
+"name": "Shadow-Ford",
+"ref": "shadow-ford",
+"first_season": 1975,
+"last_season": 1975,
+"entries": 26
+},
+{
+"id": 203,
+"name": "Shadow-Matra",
+"ref": "shadow-matra",
+"first_season": 1975,
+"last_season": 1975,
+"entries": 2
+},
+{
+"id": 204,
+"name": "Brabham-Alfa Romeo",
+"ref": "brabham-alfa_romeo",
+"first_season": 1976,
+"last_season": 1979,
+"entries": 59
+},
+{
+"id": 205,
+"name": "Lotus",
+"ref": "lotus_racing",
+"first_season": 2010,
+"last_season": 2011,
+"entries": 76
+},
+{
+"id": 206,
+"name": "Marussia",
+"ref": "marussia",
+"first_season": 2012,
+"last_season": 2014,
+"entries": 109
+},
+{
+"id": 207,
+"name": "Caterham",
+"ref": "caterham",
+"first_season": 2012,
+"last_season": 2014,
+"entries": 112
+},
+{
+"id": 208,
+"name": "Lotus F1",
+"ref": "lotus_f1",
+"first_season": 2012,
+"last_season": 2015,
+"entries": 154
+},
+{
+"id": 209,
+"name": "Manor Marussia",
+"ref": "manor",
+"first_season": 2015,
+"last_season": 2016,
+"entries": 78
+},
+{
+"id": 210,
+"name": "Haas F1 Team",
+"ref": "haas",
+"first_season": 2016,
+"last_season": 2024,
+"entries": 380
+},
+{
+"id": 211,
+"name": "Racing Point",
+"ref": "racing_point",
+"first_season": 2019,
+"last_season": 2020,
+"entries": 76
+},
+{
+"id": 213,
+"name": "AlphaTauri",
+"ref": "alphatauri",
+"first_season": 2020,
+"last_season": 2023,
+"entries": 166
+},
+{
+"id": 214,
+"name": "Alpine F1 Team",
+"ref": "alpine",
+"first_season": 2021,
+"last_season": 2024,
+"entries": 180
+},
+{
+"id": 215,
+"name": "RB F1 Team",
+"ref": "rb",
+"first_season": 2024,
+"last_season": 2024,
+"entries": 48
+}
+]

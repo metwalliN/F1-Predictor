@@ -1,0 +1,11 @@
+.env
+*.env
+logs/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+eval/results/dryrun/
+*.db
+
+data/offline_graph.db*
+data/offline_graph.ok

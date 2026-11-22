@@ -1,0 +1,13 @@
+# Python 3.12 or 3.13 (the offline graph package, kuzu, has no build for 3.14 yet)
+neo4j>=5.20
+pandas>=2.2
+numpy>=1.26
+scikit-learn==1.9.1    # must match the version that saved models/podium_model.joblib (see models/model_card.json)
+joblib>=1.4
+shap>=0.46
+lime>=0.2.0.1
+matplotlib>=3.8
+streamlit>=1.50
+requests>=2.31
+python-dotenv>=1.0
+kuzu==0.11.3; python_version < "3.14"   # offline graph copy (start.py without Neo4j, tests); no 3.14 build yet

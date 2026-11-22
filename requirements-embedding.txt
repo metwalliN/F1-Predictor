@@ -1,0 +1,2 @@
+# The embedding intent classifier (installs PyTorch, a large download). Without it the app uses the rule-based one.
+sentence-transformers>=3.0

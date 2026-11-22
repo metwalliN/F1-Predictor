@@ -1,0 +1,42 @@
+# Look of the app: the approved design (black page, Mercedes-style teal, Titillium Web).
+[server]
+enableStaticServing = true          # serves app/static/ (images and the bundled font) at /app/static/
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "dark"
+primaryColor = "#00D2BE"
+backgroundColor = "#000000"
+secondaryBackgroundColor = "#0B0B0C"
+textColor = "#F5F5F5"
+borderColor = "#1C1C1E"
+dataframeBorderColor = "#1C1C1E"
+showSidebarBorder = false
+baseRadius = "8px"
+font = "Titillium Web, system-ui, sans-serif"
+headingFont = "Titillium Web, system-ui, sans-serif"
+headingFontWeights = [700, 700, 600, 600, 600, 600]
+
+[[theme.fontFaces]]
+family = "Titillium Web"
+url = "app/static/fonts/TitilliumWeb-Regular.ttf"
+weight = 400
+
+[[theme.fontFaces]]
+family = "Titillium Web"
+url = "app/static/fonts/TitilliumWeb-SemiBold.ttf"
+weight = 600
+
+[[theme.fontFaces]]
+family = "Titillium Web"
+url = "app/static/fonts/TitilliumWeb-Bold.ttf"
+weight = 700
+
+[theme.sidebar]
+backgroundColor = "#000000"
+secondaryBackgroundColor = "#0B0B0C"
