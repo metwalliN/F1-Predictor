@@ -1,4 +1,4 @@
-# Toto — Graph-RAG Formula 1 assistant (Milestone 3)
+# Toto — Graph-RAG Formula 1 assistant 
 
 A Streamlit assistant that answers Formula 1 questions from the **Milestone 2 Neo4j knowledge graph** and runs the
 **saved Milestone 1 podium model** with a live SHAP explanation. The graph and the model supply the facts; the
